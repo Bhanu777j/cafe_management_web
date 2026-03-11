@@ -186,7 +186,7 @@ h2 {
   width: 80%;
   margin: auto;
   text-align: left;
-  column-gap: 180px;
+  column-gap: 160px;
   row-gap: 60px;
   margin-left: 50px;
 }
@@ -442,3 +442,4 @@ td {
   padding-top: 20px;
   font-size: 14px;
 }
+
