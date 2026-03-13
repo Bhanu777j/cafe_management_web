@@ -1,11 +1,4 @@
 /* ================= BODY BACKGROUND ================= */
-html {
-  overflow-x: auto;
-}
-
-body {
-  min-width: 1400px;
-}
 body {
   background: url("back7.jpg");
   background-position: center;
@@ -13,7 +6,6 @@ body {
   color: white;
   min-width:1400px;
   background-repeat:no-repeat;
-  backgroung-attachment:fixed;
   overflow-x:auto;
 }
 
@@ -453,10 +445,7 @@ td {
   padding-top: 20px;
   font-size: 14px;
 }
-html,body{
-  min-width:1400px;
-  overflow-x:auto;
-}
+
 
 
 
