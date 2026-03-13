@@ -6,6 +6,7 @@ body {
   background-size: cover;
   color: white;
   min-width:1400px;
+  background-repeat:no-repeat;
 }
 
 /* ================= NAVBAR ================= */
@@ -444,4 +445,5 @@ td {
   padding-top: 20px;
   font-size: 14px;
 }
+
 
