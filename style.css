@@ -1,4 +1,12 @@
 /* ================= BODY BACKGROUND ================= */
+.desktop-wrapper{
+width:1400px;
+margin:0 auto;
+}
+
+html,body{
+overflow-x:auto;
+}
 body {
   background: url("back7.jpg");
   background-position: center;
@@ -445,6 +453,7 @@ td {
   padding-top: 20px;
   font-size: 14px;
 }
+
 
 
 
