@@ -7,6 +7,7 @@ body {
   color: white;
   min-width:1400px;
   background-repeat:no-repeat;
+  overflow-x:auto;
 }
 
 /* ================= NAVBAR ================= */
@@ -445,5 +446,6 @@ td {
   padding-top: 20px;
   font-size: 14px;
 }
+
 
 
