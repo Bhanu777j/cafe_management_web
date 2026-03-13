@@ -454,6 +454,35 @@ td {
   font-size: 14px;
 }
 
+/* ===== LAPTOP FIX (KEEP SAME DESIGN) ===== */
+
+@media (max-width:1200px){
+
+.hero{
+margin-left:-40px;
+gap:80px;
+}
+
+.left{
+padding-left:150px;
+margin-top:-40px;
+}
+
+.left2{
+font-size:80px;
+}
+
+#food{
+width:420px;
+height:420px;
+margin-left:40px;
+}
+
+.item-grid{
+column-gap:80px;
+}
+
+}
 
 
 
