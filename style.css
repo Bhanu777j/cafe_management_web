@@ -6,7 +6,6 @@ body {
   color: white;
   min-width:1400px;
   background-repeat:no-repeat;
-  overflow-x:auto;
 }
 
 /* ================= NAVBAR ================= */
@@ -72,7 +71,7 @@ body {
   flex-direction: column;
   padding-left: 250px;
   align-items: start;
-  margin-top: -80px;
+  margin-top: -50px;
 }
 .left1 {
   font-size: 30px;
@@ -100,6 +99,7 @@ body {
   border-radius: 50px;
   margin-top: 20px;
   margin-left: 170px;
+  margin-bottom: -10px;
 }
 .left a {
   text-decoration: none;
@@ -118,14 +118,14 @@ body {
 }
 #food {
   background: url("food.jpg");
-  width: 500px;
-  height: 500px;
+  width: 430px;
+  height: 430px;
   background-size: 110%;
   background-repeat: no-repeat;
   background-position: center;
   animation: rotate 80s linear infinite;
-  margin-left: 100px;
-  margin-top: 40px;
+  margin-left: 170px;
+  margin-top: 80px;
 }
 @keyframes rotate {
   from {
@@ -139,7 +139,7 @@ body {
 /* ==== SMALL FOOD ICONS ===== */
 .items {
   display: flex;
-  margin-top: -100px;
+  margin-top: -20px;
   margin-left: 100px;
   gap: 40px;
 }
