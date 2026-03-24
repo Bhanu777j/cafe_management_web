@@ -6,6 +6,7 @@ body {
   color: white;
   min-width:1400px;
   background-repeat:no-repeat;
+  overflow-x: auto;
 }
 
 /* ================= NAVBAR ================= */
